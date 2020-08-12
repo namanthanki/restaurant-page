@@ -1,4 +1,3 @@
-# namanthanki.github.io
 RESPONSIVE WEB DESIGN:  
 ----------------------
 
